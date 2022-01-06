@@ -1,0 +1,22 @@
+
+    .bloge{
+     background-color: forestgreen;
+     border: 50px solid yellow;
+     border-radius: 20px;
+     width: 1000px;
+     height: 400px;
+     padding:200px;
+     margin: 100px auto;
+    }
+    .author{
+        color: orangered;
+    }
+    .title-bloge{
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 700;
+    }
+    .bloge p{
+        color: red;
+        text-align: justify;
+    }
